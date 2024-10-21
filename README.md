@@ -1,0 +1,2 @@
+# mngsh
+Testing hash functions 
